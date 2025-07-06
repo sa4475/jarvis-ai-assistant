@@ -108,7 +108,3 @@ jarvis-ai-assistant/
 - **Voice Settings**: Modify voice parameters in `engine/config.py`
 - **Face Recognition**: Configure face detection in `engine/auth/`
 - **Web Interface**: Customize UI in `www/` directory
-
----
-
-**Happy coding! 🚀**
